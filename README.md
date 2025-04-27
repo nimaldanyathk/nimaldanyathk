@@ -43,7 +43,7 @@ Here are the tools and languages I've worked with:
 Feel free to connect with me for collaboration opportunities, open-source contributions, or just a friendly tech discussion!
 
 - LinkedIn: [Nimal Danyath K](https://www.linkedin.com/in/nimal-danyath/)
-- Email: [nimal.danyath@example.com](mailto:nimal.danyath@example.com)
+- Email: [nimaldanyathk@gmail.com](mailto:nimal.danyath@example.com)
 - YouTube: [Let's Do Tech](https://www.youtube.com/c/LetsDoTech)
 
 ## 📈 GitHub Stats
