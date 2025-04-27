@@ -20,22 +20,23 @@ Feel free to explore my repositories, and if you like any of my work, don't hesi
 
 Here are the tools and languages I've worked with:
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) 
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-efd81d?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-000000?style=flat-square&logo=espressif&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/JavaScript-efd81d?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" />
+</p>
 
 ## 💡 My Projects
 
-- **[ATM for Kids](https://github.com/nimal-danyath/atm-for-kids)**: A solar-powered ATM interface that dispenses toys, chocolates, comic books, and stationery, featuring fingerprint authentication and SMS updates to parents.
-- **[One-Button Remote](https://github.com/nimal-danyath/one-button-remote)**: A universal remote that controls devices using IR, Wi-Fi, and Bluetooth, designed with a rotatable joystick, fingerprint scanner, and solar power.
+- **[Space-Themed Interactive Website](https://github.com/nimal-danyath/the-inspirational-boat)**: A space-themed website designed for learning about black holes, astrophysics, and interactive math-based games. A fun way to explore space with a curious Earth character! This website, titled *The Inspirational Boat*, is a place where users can dive deep into the universe's wonders.
+
 - **[AI for Disaster Management](https://github.com/nimal-danyath/ai-disaster-management)**: A technical paper integrating Artificial Intelligence with early warning systems for natural calamities like landslides, incorporating predictive analytics and machine learning.
-- **[Space-Themed Interactive Website](https://github.com/nimal-danyath/the-inspirational-boat)**: A space-themed website designed for learning about black holes, astrophysics, and interactive math-based games. A fun way to explore space with a curious Earth character!
 
 ## 📧 Contact Me
 
