@@ -1,4 +1,4 @@
-# Nimal Danyath K's GitHub Profile
+# Nimal Danyath K
 
 Welcome to my GitHub! I'm Nimal, a passionate **B.Tech Computer Science & Engineering** student at **Amrita University**. I love building innovative projects, learning new technologies, and solving real-world problems through code. 
 
