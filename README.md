@@ -1,5 +1,4 @@
 # Nimal Danyath K 
-# this profile is where my bugs live rent-free.
 <p align="center">
   <a href="https://github.com/nimal-danyath">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00B342&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Nimal+Danyath+K;A+B.Tech+CSE+Student;Think+outside+the+%7B+%7D." alt="Typing SVG" />  </a>
@@ -57,4 +56,6 @@ I'm a passionate **B.Tech Computer Science & Engineering** student at **Amrita V
 ![snake gif](https://github.com/nimaldanyathk/nimaldanyathk/blob/output/github-snake.svg)
 
 ---
+### this profile is where my bugs live rent-free.
+
 Thanks for visiting my profile! 🚀
