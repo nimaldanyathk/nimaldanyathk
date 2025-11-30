@@ -55,6 +55,7 @@ I'm a passionate **B.Tech Computer Science & Engineering** student at **Amrita V
 
 ![snake gif](https://github.com/nimaldanyathk/nimaldanyathk/blob/output/github-snake.svg)
 
+![My RepoVerse](https://raw.githubusercontent.com/nimaldanyathk/repo-verse/main/public/universe.svg)
 ---
 [![An image of @nimaldanyathk's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nimaldanyathk)](https://holopin.io/@nimaldanyathk)
 ### this profile is where my bugs live rent-free.
