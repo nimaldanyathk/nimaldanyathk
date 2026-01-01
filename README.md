@@ -1,7 +1,8 @@
 # Nimal Danyath K 
 <p align="center">
   <a href="https://github.com/nimal-danyath">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00B342&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Nimal+Danyath+K;A+B.Tech+CSE+Student;Think+outside+the+%7B+%7D." alt="Typing SVG" />  </a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00B342&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Nimal+Danyath+K;A+B.Tech+CSE+Student;Think+outside+the+%7B+%7D." alt="Typing SVG" />  
+  </a>
 </p>
 
 I'm a passionate **B.Tech Computer Science & Engineering** student at **Amrita Vishwa Vidyapeetham Coimbatore**, currently in my second year. I love building innovative projects, learning new technologies, and solving real-world problems through code. My interests lie in AI, IoT, and creating interactive web experiences.
@@ -20,7 +21,7 @@ I'm a passionate **B.Tech Computer Science & Engineering** student at **Amrita V
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,eclipse,linux,apple,arduino" />
   </a>
-  </p>
+</p>
 
 ---
 
@@ -33,6 +34,8 @@ I'm a passionate **B.Tech Computer Science & Engineering** student at **Amrita V
   > A space-themed website titled *The Inspirational Boat*, designed for learning about black holes, astrophysics, and interactive math-based games. A fun way to explore space with a curious Earth character!
 
 </details>
+
+---
 
 ## 📧 Let's Connect!
 
@@ -52,15 +55,22 @@ I'm a passionate **B.Tech Computer Science & Engineering** student at **Amrita V
 
 ---
 
-
 ![snake gif](https://github.com/nimaldanyathk/nimaldanyathk/blob/output/github-snake.svg)
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/nimaldanyathk/repo-verse/main/public/universe-3d.svg"
        alt="My Universe"
        width="500">
 </p>
+
 ---
-[![An image of @nimaldanyathk's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nimaldanyathk)](https://holopin.io/@nimaldanyathk)
+
+<p align="center">
+  <a href="https://holopin.io/@nimaldanyathk">
+    <img src="https://holopin.me/nimaldanyathk" alt="Holopin Badges">
+  </a>
+</p>
+
 ### this profile is where my bugs live rent-free.
 
 Thanks for visiting my profile! 🚀
