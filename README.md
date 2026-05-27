@@ -1,43 +1,83 @@
 # Nimal Danyath K 
 <p align="center">
   <a href="https://github.com/nimal-danyath">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00B342&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Nimal+Danyath+K;A+B.Tech+CSE+Student;Think+outside+the+%7B+%7D." alt="Typing SVG" />  
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00B342&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Nimal+Danyath+K;A+B.Tech+CSE+Student;Think+outside+the+%7B+%7D." alt="Typing SVG" />  
   </a>
 </p>
 
-I'm a passionate **B.Tech Computer Science & Engineering** student at **Amrita Vishwa Vidyapeetham Coimbatore**, currently in my second year. I love building innovative projects, learning new technologies, and solving real-world problems through code. My interests lie in AI, IoT, and creating interactive web experiences.
+I'm a passionate **B.Tech Computer Science & Engineering** student at **Amrita Vishwa Vidyapeetham Coimbatore**, currently in my third year. I love building innovative projects, learning new technologies, and solving real-world problems through code. My interests lie in AI, IoT, and creating interactive web experiences.
 
 ---
 
-## 💻 Programming Languages
+## Programming Languages
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,html,css,matlab" />
   </a>
 </p>
 
-## 🛠️ Tools & Platforms
+## Tools & Platforms
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,eclipse,linux,apple,arduino" />
+    <img src="https://skillicons.dev/icons?i=spring,postman,mysql,postgres,git,github,vscode,eclipse,linux,apple,arduino" />
   </a>
 </p>
 
 ---
 
-## 💡 My Projects
+## My Projects
 
 <details>
   <summary><strong>Click to see my featured projects</strong></summary>
-  
-  ### [Space-Themed Interactive Website](https://github.com/nimal-danyath/the-inspirational-boat)
-  > A space-themed website titled *The Inspirational Boat*, designed for learning about black holes, astrophysics, and interactive math-based games. A fun way to explore space with a curious Earth character!
+
+### [SparkD](https://github.com/nimaldanyathk/sparkd)
+**Intelligent Crowd Monitoring & Alert System**
+
+ESP32-CAM based crowd monitoring system using YOLO for real-time high-density crowd detection and alert generation.
+
+`Embedded C` `YOLO` `IoT` `Arduino`
+
+---
+
+### [Semicolon](https://github.com/nimaldanyathk/Semicolon-Embedded-C-Project)
+**Assistive Device for the Visually Impaired**
+
+ESP32-CAM based assistive system featuring currency detection, object recognition, and embedded audio feedback.
+
+`Assistive Tech` `Edge Impulse` `YOLO` `Embedded C`
+
+---
+
+### [brAIn](https://github.com/nimaldanyathk/brAIn)
+**Interactive STEM Learning Platform**
+
+AI-assisted STEM learning platform with immersive simulations and gamified learning experiences.
+
+`AI` `STEM` `3D Simulations`
+
+---
+
+### [RepoVerse](https://github.com/nimaldanyathk/repo-verse)
+**GitHub Profile Universe Visualizer**
+
+Generative SVG visualization engine that transforms repositories into animated orbiting planets.
+
+`SVG` `GitHub API` `Visualization` `Generative Art`
+
+---
+
+### [The Inspirational Boat](https://github.com/nimal-danyath/the-inspirational-boat)
+**Immersive Black Hole Learning Experience**
+
+Interactive educational platform featuring storytelling and visually engaging learning experiences.
+
+`UI/UX` `Interactive Learning`
 
 </details>
 
 ---
 
-## 📧 Let's Connect!
+## Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nimaldanyathk/">
@@ -71,6 +111,6 @@ I'm a passionate **B.Tech Computer Science & Engineering** student at **Amrita V
   </a>
 </p>
 
-### this profile is where my bugs live rent-free.
+### this profile is where my bugs live rent-free :)
 
-Thanks for visiting my profile! 🚀
+Thanks for visiting my profile.
