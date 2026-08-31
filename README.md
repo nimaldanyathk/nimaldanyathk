@@ -1,116 +1,89 @@
-# Nimal Danyath K 
-<p align="center">
-  <a href="https://github.com/nimal-danyath">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00B342&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Nimal+Danyath+K;A+B.Tech+CSE+Student;Think+outside+the+%7B+%7D." alt="Typing SVG" />  
-  </a>
-</p>
+<div align="center">
 
-I'm a passionate **B.Tech Computer Science & Engineering** student at **Amrita Vishwa Vidyapeetham Coimbatore**, currently in my third year. I love building innovative projects, learning new technologies, and solving real-world problems through code. My interests lie in AI, IoT, and creating interactive web experiences.
+<img src="./ascii.svg" width="560" alt="Nimal Danyath K"/>
 
----
+[nimaldanyathk.dev](https://nimaldanyathk.dev) &nbsp;·&nbsp;
+[github](https://github.com/nimaldanyathk) &nbsp;·&nbsp;
+[linkedin](https://www.linkedin.com/in/nimaldanyathk/) &nbsp;·&nbsp;
+[youtube](https://www.youtube.com/c/LetsDoTech) &nbsp;·&nbsp;
+[email](mailto:nimaldanyathkbackup@gmail.com)
 
-## Programming Languages
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,html,css,matlab" />
-  </a>
-</p>
-
-## Tools & Platforms
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,postman,mysql,postgres,git,github,vscode,eclipse,linux,apple,arduino" />
-  </a>
-</p>
-
----
-
-## My Projects
+</div>
 
 <details>
-  <summary><strong>Click to see my featured projects</strong></summary>
+<summary><img src="./hd-about.svg" alt="about — click to expand"/></summary>
 
-### [SparkD](https://github.com/nimaldanyathk/sparkd)
-**Intelligent Crowd Monitoring & Alert System**
+> B.Tech Computer Science & Engineering at Amrita Vishwa Vidyapeetham,<br>
+> Coimbatore — third year. Think outside the `{ }`.
 
-ESP32-CAM based crowd monitoring system using YOLO for real-time high-density crowd detection and alert generation.
-
-`Embedded C` `YOLO` `IoT` `Arduino`
-
----
-
-### [Semicolon](https://github.com/nimaldanyathk/Semicolon-Embedded-C-Project)
-**Assistive Device for the Visually Impaired**
-
-ESP32-CAM based assistive system featuring currency detection, object recognition, and embedded audio feedback.
-
-`Assistive Tech` `Edge Impulse` `YOLO` `Embedded C`
-
----
-
-### [brAIn](https://github.com/nimaldanyathk/brAIn)
-**Interactive STEM Learning Platform**
-
-AI-assisted STEM learning platform with immersive simulations and gamified learning experiences.
-
-`AI` `STEM` `3D Simulations`
-
----
-
-### [RepoVerse](https://github.com/nimaldanyathk/repo-verse)
-**GitHub Profile Universe Visualizer**
-
-Generative SVG visualization engine that transforms repositories into animated orbiting planets.
-
-`SVG` `GitHub API` `Visualization` `Generative Art`
-
----
-
-### [The Inspirational Boat](https://github.com/nimal-danyath/the-inspirational-boat)
-**Immersive Black Hole Learning Experience**
-
-Interactive educational platform featuring storytelling and visually engaging learning experiences.
-
-`UI/UX` `Interactive Learning`
+I'm a passionate CSE student who loves building innovative projects, learning<br>
+new technologies, and solving real-world problems through code. My interests<br>
+lie in AI, IoT, and creating interactive web experiences.
 
 </details>
 
----
+<details>
+<summary><img src="./hd-stack.svg" alt="stack — click to expand"/></summary>
 
-## Let's Connect
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/nimaldanyathk/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:nimaldanyathkbackup@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://www.youtube.com/c/LetsDoTech">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-  </a>
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=nimal-danyath&style=flat-square&color=blue" alt="Profile Views"/>
-</p>
+<img src="./stack.svg" width="620" alt="Languages and tools"/>
 
----
+</div>
 
-![snake gif](https://github.com/nimaldanyathk/nimaldanyathk/blob/output/github-snake.svg)
+</details>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/nimaldanyathk/repo-verse/main/public/universe-3d.svg"
-       alt="My Universe"
-       width="500">
-</p>
+<details>
+<summary><img src="./hd-projects.svg" alt="projects — click to expand"/></summary>
 
----
+**[Lunar South Pole Digital Twin](https://nimaldanyathk.dev/projects)** &nbsp;·&nbsp; <samp>python, a* path planning, fuzzy logic, nasa lola</samp><br>
+A confidence-aware traversability and path-planning framework for autonomous<br>
+rover exploration. Processes NASA LOLA DEM data for terrain, illumination and<br>
+radar coverage, scores reliability with a fuzzy inference system, and runs A\*<br>
+search to minimise navigation risk over the lunar south pole.
 
-<p align="center">
-  <a href="https://holopin.io/@nimaldanyathk">
-    <img src="https://holopin.me/nimaldanyathk" alt="Holopin Badges">
-  </a>
-</p>
+**[SparkD](https://github.com/nimaldanyathk/sparkd)** &nbsp;·&nbsp; <samp>embedded c, yolo, iot, esp32-cam</samp><br>
+Intelligent crowd-monitoring system: an ESP32-CAM running YOLO for real-time<br>
+high-density crowd detection, triggering alerts to authorities — aimed at<br>
+festivals, public gatherings and stampede prevention. Written in C on Arduino.
 
-### this profile is where my bugs live rent-free :)
+**[Semicolon](https://github.com/nimaldanyathk/Semicolon-Embedded-C-Project)** &nbsp;·&nbsp; <samp>embedded c, edge impulse, machine learning</samp><br>
+Assistive device for the visually impaired: an ESP32-CAM doing currency<br>
+detection and object recognition with Edge Impulse and YOLO, with embedded<br>
+audio feedback. Programmed in C on the Arduino IDE.
 
-Thanks for visiting my profile.
+**[brAIn](https://github.com/nimaldanyathk/brAIn)** &nbsp;·&nbsp; <samp>web, ai, 3d simulation, gamification</samp><br>
+Interactive STEM learning platform that makes physics, chemistry and maths<br>
+come alive — 3D simulations, AI tutoring and gamification wrapped into one<br>
+engaging experience for students.
+
+**[RepoVerse](https://github.com/nimaldanyathk/repo-verse)** &nbsp;·&nbsp; <samp>svg animation, github api, generative art</samp><br>
+A cosmic engine that visualises your repositories as planets orbiting a central<br>
+sun — you. Emits an animated SVG to embed in a profile README; the universe at<br>
+the foot of this page is its output.
+
+</details>
+
+<img src="./hd-stats.svg" width="620" alt="stats"/>
+
+<div align="center">
+
+<img src="./stats.svg" width="620" alt="Contributions in the last year"/>
+
+<img src="./year.svg" width="620" alt="The last year, one character per day"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/nimaldanyathk/repo-verse/main/public/universe-3d.svg" width="500" alt="My repositories as an orbiting universe — repo-verse"/>
+
+</div>
+
+<!--
+  Regenerating this page:
+    ascii.svg   python3 scripts/make_banner.py $'NIMAL\nDANYATH K'   (one-off)
+    stat SVGs   the "refresh stats" action runs daily; or trigger it manually
+                from the Actions tab (workflow_dispatch)
+  Swap in a photo portrait later with scripts/make_portrait.py — see its header.
+-->
